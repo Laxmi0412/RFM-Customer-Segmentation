@@ -24,7 +24,7 @@ This project helps organizations improve customer retention, personalization, an
 * NumPy
 *Matplotlib
 *Seaborn
-*Jupyter Notebook*
+*Jupyter Notebook
 
 
 
