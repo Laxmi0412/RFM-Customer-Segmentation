@@ -9,12 +9,12 @@ The objective is to identify high-value customers, at-risk customers, and custom
 
 
 **🎯 Business Problem**
-Businesses often struggle to identify:
 
-Which customers generate the most value
-Which customers are becoming inactive
-Which customer segments require retention campaigns
-How purchasing behavior impacts customer lifetime value
+ Businesses often struggle to identify:
+* Which customers generate the most value
+* Which customers are becoming inactive
+* Which customer segments require retention campaigns
+* How purchasing behavior impacts customer lifetime value
 
 This project helps organizations improve customer retention, personalization, and marketing effectiveness through customer segmentation.
 
