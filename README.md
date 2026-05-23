@@ -19,12 +19,11 @@ The objective is to identify high-value customers, at-risk customers, and custom
 This project helps organizations improve customer retention, personalization, and marketing effectiveness through customer segmentation.
 
 **🛠️ Tech Stack**
-* Python*
-* Pandas*
-* NumPy*
-
-*Matplotlib*
-*Seaborn*
+* Python
+* Pandas
+* NumPy
+*Matplotlib
+*Seaborn
 *Jupyter Notebook*
 
 
